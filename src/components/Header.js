@@ -18,7 +18,7 @@ export default function Header() {
 
                 <li><a href="{process.env.PUBLIC_URL + 'Portfolio/#resume'}">Resume</a></li>
 
-                <li><a href="/#resume">Resume</a></li>
+               
 
                 <li><a href="/#about">Technical Skills</a></li>
                 <li><a href="/#projects">Professional Experience</a></li>
