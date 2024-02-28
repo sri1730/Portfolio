@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li {
+  @apply px-2;
+}
+
+.bg-primary {
+  background: rgb(85 81 227);
+}
+
+.bg-secondary {
+  background: #2b2d77;
+}
+.bg-header {
+  background: rgb(113 109 222);
+}
+
+.mobile-nav {
+  @apply fixed top-16 bg-gray-800 w-1/2 left-1/2;
+}
+
+.mobile-nav li {
+  @apply w-full h-full text-center border-b-2 ;
+}
+.project-desc {
+  @apply absolute left-0 right-0 bottom-0 top-0 bg-secondary opacity-0 duration-500 hover:opacity-85;
+}
+
+.btn {
+  @apply bg-primary px-1 py-1 font-bold hover:border-2 border-white rounded;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.headerimg{
+  height : 47px;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 2;
+    }
+  }
+   
+  .animate-fade-in {
+    animation: fadeIn 3s ease-in-out infinite ;
+
+  }
+   
+  
+   
