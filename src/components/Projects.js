@@ -24,35 +24,45 @@ export default function Projects() {
     //     ]
     // }
 
-    return <section id='projects' className="flex  flex-col py-2 px-2 justify-center bg-primary text-white">
+    return <section id='projects' className="flex  flex-col py-2 px-2 justify-center bg-secondary text-white">
         <div className="w-full">
             <div className="flex flex-col px-10 py-5">
                 <h1 className="text-4xl border-b-4 border-secondary mb-5 w-[400px] font-bold">Professonal Experience</h1>
                 <p><span className='text-red-950 font-bold'>Company Name : </span>Newgen Sofware Technologies , Chennai India</p>
-                <p><span className='text-red-950 font-bold'>Designation : </span>Application Engineer  April 2022 - Present</p>
-                <p><span className='text-red-950 font-bold'>Period : </span> April 2022 - Present</p>
-                <p><span className='text-red-950 font-bold'>Project Undertaken : </span> Credit Access Grameen Loan and Indian Bank Digital Lending Process.</p>
+                <p><span className='text-red-950 font-bold'>Designation : </span>Software Engineer</p>
+                <p><span className='text-red-950 font-bold'>Period : </span> July 2022 - Present</p>
+                <p><span className='text-red-950 font-bold'>Project Undertaken : </span> Indian Bank Digital Lending Process.</p>
                 <p><span className='text-red-950 font-bold'>Client : </span> Indian Bank</p>
                 <p><span className='text-red-950 font-bold'>Process Undertaken : </span></p>
                 <li>Home Loan</li>
                 <li>Self Help Groups</li>
-                <li>Education Loan</li>
-                <li>Overdraft Against Insurance•Overdraft Against Insurance</li>
                 <li>Jewel Loan Re-pledge Branch and Customer Assisted Journey</li>
                 <li>Jewel Loan Fresh-Branch Assisted Journey and Jewel Loan Fresh-Customer Assisted Journey for LOS & LCS</li>
                 <p><span className='text-red-950 font-bold '>Roles and Responsibilities : </span></p>
-                    <li>Engaged directly with clients at their location, gathering requirements and ensuring a clear understanding of their needs.</li>
-                    <li>Successfully delivered a loan lending system within project timelines, exceeding client expectations by meeting all functional requirements.</li>
-                    <li>Led the development of a robust and user-friendly loan lending system using Java, JavaScript, and CSS technologies.</li>
-                    <li>Mainly worked in digital generation of outward documents like Cibil Report, Application form, Appraisal note, Sanction letter etc. in the digital lending process.</li>
-                    <li>Worked in Application Development of Digital Lending Process like Self Help Groups and Educational Loan.</li>
-                    <li>Integrated third-party APIs and services, to enable seamless loan processing and risk assessment.</li>
-                    <li>Collaborated closely with a cross-functional team of designers, business analysts, and testers to gather requirements and translate them into scalable software solutions.</li>
-                    <li>Developed the back-end functionality using Java, leveraging object-oriented principles and best practices to ensure code modularity, reusability, and maintainability.</li>
-                    <li>Assisted in the deployment and maintenance of the loan lending system, troubleshooting any issues and providing timely support to end-users.</li>
-                    <li>Ensured reliability of a loan lending system by conducting thorough unit testing, promptly addressing identified bugs.</li>
-                    <li>Documented design specifications in a comprehensive reference, detailing the system's architecture and components.</li>
-                    <li>Established and organized a repository for efficient team collaboration and a clear audit trail of code modifications.</li>
+                
+    <li>Successfully executed projects encompassing the development and enhancement of the Jewel Loan Fresh-Branch Assisted Loan Process, Jewel Loan Fresh-Customer Assisted Loan Process, and the Self-Help Group Loan Process within the Loan Origination System (LOS).</li>
+    
+    <li>Collaborated closely with the client, Indian Bank, to understand their specific needs and preferences, incorporating feedback into the development process to align the system with their expectations.</li>
+    
+    <li>Led the development of a robust and user-friendly loan lending system using Java, JavaScript, and CSS technologies.</li>
+    
+    <li>Collaborated closely with a cross-functional team of designers, business analysts, and testers to gather requirements and translate them into scalable software solutions.</li>
+    
+    <li>Developed the back-end functionality using Java, leveraging object-oriented principles and best practices to ensure code modularity, reusability, and maintainability.</li>
+    
+    <li>Assisted in the deployment and maintenance of the loan lending system, troubleshooting any issues and providing timely support to end-users.</li>
+    
+    <li>Successfully delivered the loan lending system within project timelines, meeting all functional requirements and exceeding client expectations.</li>
+    
+    <li>Integrated third-party APIs and services, to enable seamless loan processing and risk assessment.</li>
+    
+    <li>Conducted comprehensive unit testing throughout the development process to ensure the reliability and functionality of the loan lending system, identifying and resolving any bugs or issues promptly.</li>
+    
+    <li>Documented the design specifications in a detailed design document, providing a comprehensive reference for the system's architecture, components, and interactions.</li>
+    
+    <li>Established and maintained a well-organized repository, ensuring efficient collaboration among team members and providing a clear audit trail of code modifications.</li>
+
+
                 
 
 

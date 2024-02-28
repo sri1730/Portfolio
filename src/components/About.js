@@ -2,10 +2,10 @@ import AboutImg from '../assets/about.png';
 
 export default function About () {
     const config  = {
-        line1: 'Hi, My name is Sivasubramani. I am a Front End developer.',
-        line2:'My Career Objective is to pursue a career with passion-driven software development, I bring a dedication to learningnew technologies and crafting logical solutions for complex challenges. I am mature team worker and also adapt seamlessly to diverse situations, excelling both collaboratively and independently.',
-        line3: 'Front End: Javascript,HTML,CSS and React js',
-        line4: 'Back End: Java and Oracle SQL',
+        line1: 'Hi, My name is Srivardhan Vasudevan. I am a Front End developer.',
+        line2:'Aspiring to contribute as a mature and versatile team member, I bring a wealth of experience in navigating diverse challenges collaboratively. Whether thriving within a team dynamic or autonomously driving initiatives, I am recognized for my adaptability. Rapidly assimilating new technologies has become a hallmark of my career, and I am committed to leveraging this skill to enhance project outcomes and propel professional growth.',
+        line3: 'Front End: Javascript,HTML,CSS',
+        line4: 'Back End: SpringBoot,Java Oracle SQL',
         line5:'Dynamic PDF document generation using Apache Velocity for templates and Apache PDFBox for manipulation.',
         line6:'Utilized Tortoise SVN for effective sourcecode management and collaborative development'
 

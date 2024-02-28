@@ -18,8 +18,8 @@ root.render(
     <Header/>
     <Hero/>
     <About/>
-    <Projects/>
     <Resume/>
+    <Projects/>
     <Contact/>
     <Footer/>
   </React.StrictMode>

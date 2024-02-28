@@ -2,9 +2,9 @@
 export default function Contact () {
 
     const config = {
-        email : 'gssivaakm2001@gmail.com',
-        phone: '+91 6383408106',
-        address:'Kangayam, Tirupur,Tamilnadu'
+        email : 'srivardhan1700@gmail.com',
+        phone: '+91 6369292316',
+        address:'Salem,Tamilnadu - 636302'
     }
 
     return <section id='contact' className='flex flex-col bg-primary px-5 py-5 text-white'>

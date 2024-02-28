@@ -8,7 +8,7 @@ export default function Hero() {
         social: {
             // twitter: 'https://twitter.com/jvlcode',
             // facebook: 'https://facebook.com/jvlcode',
-            linkedin: 'https://www.linkedin.com/in/sivasubramani-govindasamy-047061214'
+            linkedin: 'https://www.linkedin.com/in/srivardhan-vasudevan-145935291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
         }
     }
     const AnimatedSubtitle = ({ text }) => {
@@ -26,7 +26,7 @@ export default function Hero() {
 
     return <section className='flex flex-col md:flex-row px-5 py-5 bg-primary justify-center'>
        <div className='md:w-1/2 flex flex-col'>
-            <h1 className=' text-white text-6xl font-hero-fomt'>Hi, <br/> I am <span className='text-black'></span>Sivasubramani 
+            <h1 className=' text-white text-5xl font-hero-fomt'>Hi, <br/> I am <span className='text-black'></span>Srivardhan Vasudevan 
             <p><AnimatedSubtitle text={config.subtitle} /></p>
             </h1>
             <div className='flex py-10'>
