@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3268e2d7.css",
+    "main.js": "/Portfolio/static/js/main.6fefa05f.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/about.png": "/Portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/srivardhan.jpg": "/Portfolio/static/media/srivardhan.6fe0d4e149c1b8107747.jpg",
+    "static/media/food-ecommerce.jpg": "/Portfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/ecommerce-websites.jpg": "/Portfolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/website-blog.jpg": "/Portfolio/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.3268e2d7.css.map": "/Portfolio/static/css/main.3268e2d7.css.map",
+    "main.6fefa05f.js.map": "/Portfolio/static/js/main.6fefa05f.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3268e2d7.css",
+    "static/js/main.6fefa05f.js"
+  ]
+}
