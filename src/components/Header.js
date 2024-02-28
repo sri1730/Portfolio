@@ -15,7 +15,11 @@ export default function Header() {
             <ul className="flex text-white ">
                 <li><a href="/">Home</a></li>
                 <li><a href="{process.env.PUBLIC_URL + 'Portfolio/#about'}">About</a></li>
+
                 <li><a href="{process.env.PUBLIC_URL + 'Portfolio/#resume'}">Resume</a></li>
+
+                <li><a href="/#resume">Resume</a></li>
+
                 <li><a href="/#about">Technical Skills</a></li>
                 <li><a href="/#projects">Professional Experience</a></li>
                 <li><a href="/#contact">Contact</a></li>
